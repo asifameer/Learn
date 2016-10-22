@@ -1,6 +1,6 @@
 {
   "name": "Learn",
   "tagline": "Links for learning",
-  "body": "### Learning\r\nThis page would try to provide summary of tools and links for learning a certain web technology.\r\n#### Markdown  \r\nA syntax language for web formatting\r\n- [Markdown](https://asifameer.github.io/markdown/ target=\"_blank\")",
+  "body": "### Learning\r\nThis page would try to provide summary of tools and links for learning a certain web technology.\r\n#### Markdown  \r\nA syntax language for web formatting\r\n- [Markdown](https://asifameer.github.io/markdown/)\r\n- <https://asifameer.github.io/markdown/ target=\"_blank\">",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
